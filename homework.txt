@@ -1,3 +1,5 @@
 Print("I'm performing the 1st step of homework");
 Print("I'm making changes in an existing file");
 Print("I'm making changes in main branch");
+Print("I'm making changes in the existing project in new_test_branch");
+Print("I've resolved a conflict");
